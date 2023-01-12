@@ -2,8 +2,7 @@
 
 [Link to my linkedin page](https://www.linkedin.com/in/aliaksandr-makaranka)
 
-Mail: <aliaksandrmakaranka@gmail.com>
-
+You can email me [here](mailto:aliaksandrmakaranka@gmail.com) with any questions or comments you might have.
 @Discord 8BitCore#9100
 
 ![](https://komarev.com/ghpvc/?username=AliaksandrMakaranka)
