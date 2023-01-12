@@ -5,3 +5,5 @@
 Mail: <aliaksandrmakaranka@gmail.com>
 
 @Discord 8BitCore#9100
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliaksandrMakaranka)](https://github.com/ryo-ma/github-profile-trophy)
