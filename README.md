@@ -2,6 +2,6 @@
 
 [Link to my linkedin page](https://www.linkedin.com/in/aliaksandr-makaranka)
 
-mail: <aliaksandrmakaranka@gmail.com>
+Mail: <aliaksandrmakaranka@gmail.com>
 
 @Discord 8BitCore#9100
