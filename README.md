@@ -4,6 +4,6 @@
 
 You can email me [here](mailto:aliaksandrmakaranka@gmail.com) with any questions or comments you might have.
 
-@Discord 8BitCore#9100
+@Discord 8bitcore
 
 ![](https://komarev.com/ghpvc/?username=AliaksandrMakaranka)
