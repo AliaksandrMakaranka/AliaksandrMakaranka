@@ -2,14 +2,18 @@
 
 [Link to my linkedin page](https://www.linkedin.com/in/aliaksandr-makaranka)
 
-<div style="overflow: hidden; display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Technologies: Java, SQL, etc.
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://camo.githubusercontent.com/ee35ff1023d781345c72cd258248c304258b055402c427ca15319e7c81808a99/68747470733a2f2f6578706572746e6f762e72752f3830302f3630302f687474702f632e74656e6f722e636f6d2f5838383534787875515f4541414141642f64657374726f792d636f64652d6d61642e676966" alt="Alt Text">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      
+Technologies: Java, SQL, etc.
+    
+    </td>
+    <td width="50%">
+      <img src="https://camo.githubusercontent.com/ee35ff1023d781345c72cd258248c304258b055402c427ca15319e7c81808a99/68747470733a2f2f6578706572746e6f762e72752f3830302f3630302f687474702f632e74656e6f722e636f6d2f5838383534787875515f4541414141642f64657374726f792d636f64652d6d61642e676966" alt="Alt Text">
+    </td>
+  </tr>
+</table>
 
 
 
