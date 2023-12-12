@@ -1,6 +1,4 @@
 
-[Link to my linkedin page](https://www.linkedin.com/in/aliaksandr-makaranka)
-
 <h1 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=6566D400&width=670&lines=Hi+there%2C+I'm+Java+developer+and+software+tester.+)](https://git.io/typing-svg)
@@ -12,8 +10,9 @@
 
 <h4>How to reach me:</h4>
 
-- Email📫: [click](mailto:aliaksandrmakaranka@gmail.com)
+- Email📫: [Click](mailto:aliaksandrmakaranka@gmail.com)
 - Discord: 8bitcore
+- Linkedin: [Click](https://www.linkedin.com/in/aliaksandr-makaranka)
 
 <p align="left">
 </p>
