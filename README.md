@@ -1,15 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=6566D400&width=670&lines=Hi+there%2C+I'm+Java+developer+and+software+tester.+)](https://git.io/typing-svg)
 
 [Link to my linkedin page](https://www.linkedin.com/in/aliaksandr-makaranka)
 
-<div>
-  <div style="float: left; width: 50%;">
-    Technologies: Java, SQL, etc.
-  </div>
-  <div style="float: right; width: 50%;">
-    <img src="https://camo.githubusercontent.com/ee35ff1023d781345c72cd258248c304258b055402c427ca15319e7c81808a99/68747470733a2f2f6578706572746e6f762e72752f3830302f3630302f687474702f632e74656e6f722e636f6d2f5838383534787875515f4541414141642f64657374726f792d636f64652d6d61642e676966" alt="Alt Text">
-  </div>
-</div>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=6566D400&width=670&lines=Hi+there%2C+I'm+Java+developer+and+software+tester.+)](https://git.io/typing-svg)
+</h1>
+
+<img align="right" alt="Coding" width="400" src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
+
+<h4>How to reach me:</h4>
+ - Email📫: [click](mailto:aliaksandrmakaranka@gmail.com)<br>
+ - @Discor:discord: 8bitcore<br>
+
+<p align="left">
+</p>
 
 
 
