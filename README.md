@@ -6,13 +6,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
 
+<p align="left">
+</p>
 <h4>How to reach me:</h4>
 - Email📫: [click](mailto:aliaksandrmakaranka@gmail.com)
 - Discord: 8bitcore
 
 
-<p align="left">
-</p>
+
 
 
 
