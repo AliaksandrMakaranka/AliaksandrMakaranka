@@ -12,7 +12,7 @@
 
 - Email📫: [Click](mailto:aliaksandrmakaranka@gmail.com)
 - Discord: 8bitcore
-- Linkedin: [Click](https://www.linkedin.com/in/aliaksandr-makaranka)
+- Linkedin: [Click](https://www.linkedin.com/in/aliaksandr-makaranka){:target="_blank"}
 
 <p align="left">
 </p>
