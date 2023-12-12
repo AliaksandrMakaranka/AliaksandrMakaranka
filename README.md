@@ -15,9 +15,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/aliaksandrmakaranka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aliaksandrmakaranka/" height="30" width="40" /></a>
 </p>
 
-- Email📫: [Click](mailto:aliaksandrmakaranka@gmail.com)
-- Discord: 8bitcore
-- Linkedin: <a href="https://www.linkedin.com/in/aliaksandr-makaranka" target="_blank">Click</a>
 
 ### Languages and Tools:
 
