@@ -1,20 +1,21 @@
-
 <h1 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=6566D400&width=670&lines=Hi+there%2C+I'm+Java+developer+and+software+tester.+)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=6566D400&width=670&lines=Hi+there%2C+I'm+Java+developer+and+software+tester.+" alt="Typing SVG">
+  </a>
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
 
-
 <h4>How to reach me:</h4>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aliaksandr-makaranka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliaksandr-makaranka" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aliaksandrmakaranka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aliaksandrmakaranka/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aliaksandr-makaranka" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/aliaksandrmakaranka/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
-
 
 ### Languages and Tools:
 
@@ -27,12 +28,5 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-
-
-
-
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=AliaksandrMakaranka)
