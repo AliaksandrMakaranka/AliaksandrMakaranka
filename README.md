@@ -10,6 +10,11 @@
 
 <h4>How to reach me:</h4>
 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aliaksandr-makaranka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliaksandr-makaranka" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/aliaksandrmakaranka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aliaksandrmakaranka/" height="30" width="40" /></a>
+</p>
+
 - Email📫: [Click](mailto:aliaksandrmakaranka@gmail.com)
 - Discord: 8bitcore
 - Linkedin: <a href="https://www.linkedin.com/in/aliaksandr-makaranka" target="_blank">Click</a>
