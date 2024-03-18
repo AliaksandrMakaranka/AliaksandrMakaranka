@@ -26,7 +26,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org/)
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" alt="maven" width="40" height="40"/>](https://maven.apache.org/)
+
 
 ![](https://komarev.com/ghpvc/?username=AliaksandrMakaranka)
