@@ -17,18 +17,51 @@
   </a>
 </p>
 
+### 🛠 Tech Stack & Tools
+
+### Backend Development:  
+✅ Java (primary language)  
+✅ Spring Boot  
+✅ Axon Framework  
+✅ SQL  
+
+### Frontend (basic knowledge):  
+✅ HTML  
+✅ CSS  
+
+### Testing & Automation:  
+✅ Java + Selenium  
+✅ JUnit / TestNG  
+✅ UI testing  
+✅ REST Assured (API testing)  
+
+### DevOps & Tools:  
+✅ Docker  
+✅ Linux (daily use)  
+
+### Other Languages (non-commercial experience):  
+✅ Rust  
+✅ Python  
+
+🔐 Passionate about cybersecurity and active CTF participant.  
+
+### 🧠 Soft Skills:  
+✅ Problem-solving mindset  
+✅ Fast learner  
+✅ Independent and proactive  
+✅ Team-oriented and open to feedback
+
 ### Languages and Tools:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com)
-[<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>](https://spring.io/)
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>](https://www.selenium.dev)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com)  
+[<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>](https://spring.io/)  
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>](https://www.selenium.dev)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain-wordmark.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org/)  
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" alt="maven" width="40" height="40"/>](https://maven.apache.org/)
-
 
 ![](https://komarev.com/ghpvc/?username=AliaksandrMakaranka)
